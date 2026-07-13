@@ -1,0 +1,20 @@
+{
+  "name": "multifile-js-template",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "main": "tsx src/index.ts",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@swc/core": "^1.11.13",
+    "@swc/jest": "^0.2.37",
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.13.13",
+    "jest": "^29.7.0",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "tsx": "^4.19.3"
+  }
+}
