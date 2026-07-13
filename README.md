@@ -5,3 +5,4 @@ No AI was used
 No humans were harmed
 In the making of this app
 
+Just create tasks and complete them - easy!
