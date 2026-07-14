@@ -7,6 +7,6 @@ export class Task extends Dodo {
 
     created_at: Date = new Date;
     due_date: Date = new Date(); 
-    description: string = "";
+    description?: string = "";
     completed: boolean = false;
 }

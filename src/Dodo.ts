@@ -3,7 +3,7 @@ export abstract class Dodo {
 
   abstract created_at: Date
   abstract due_date: Date; 
-  abstract description: string;
+  abstract description?: string;
   abstract completed: boolean;
   
   abstract output(): string;
