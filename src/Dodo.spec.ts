@@ -1,4 +1,4 @@
-import { Task } from './Dodo'
+import { Task } from './Task'
 
 describe('Task class', () => {
   it('should return the output', () => {

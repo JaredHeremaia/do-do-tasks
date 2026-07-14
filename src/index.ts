@@ -1,4 +1,4 @@
-import { Task } from './Dodo'
+import { Task } from './Task'
 
 const task = new Task("New Dodo Task") 
 
