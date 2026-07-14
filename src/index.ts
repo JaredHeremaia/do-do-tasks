@@ -3,6 +3,7 @@ import { Task } from './Dodo'
 const task = new Task("New Dodo Task") 
 
 task.description = "This is a new dodo task"
+task.completed = true;
 console.log(task.output()) 
 
 const task2 = new Task("New Dodo Task 2") 
